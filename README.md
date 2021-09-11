@@ -13,25 +13,26 @@ It's my personal public repository  -->
 
 
 ## My Tech Stack
-<div class="row">
+<img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="20%"/><img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="20%"/><img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" width="20%"/>
+<!-- <div class="row">
   <div class="column">
-    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="100%"/>
+    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="20%"/>
   </div>
   <div class="column">
-    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="100%"/>
+    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="20%"/>
   </div>
   <div class="column">
-    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" width="100%"/>
+    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" width="20%"/>
   </div>
-</div>
+</div> -->
 
 
 ## Reach Me
 <a href="https://www.linkedin.com/in/krishnadas-a-64909a3a/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://krishnadaspalode.git.github.io/blob/main/assets/lnkin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/lnkin.svg" />
 </a>
 <a href="mailto:krishna.palode@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://krishnadaspalode.git.github.io/blob/main/assets/gmail.svg" />
+  <img align="left" alt="Mail" width="22px" src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/gmail.svg" />
 </a>
 
 

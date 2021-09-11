@@ -16,11 +16,18 @@ It's my personal public repository  -->
 ## My Tech Stack
 <p float="left">
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="100" height="25"/>
-  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="100" height="25"/> 
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.svg" width="100" height="25"/>
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angularJs.svg" width="100" height="25"/>
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="100" height="25"/>
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/cordova.svg" width="100" height="25"/>
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/ionic.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/css.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/git.svg" width="100" height="25"/> 
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/jQuery.svg" width="100" height="25"/>
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/node.svg" width="100" height="25"/>
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/npm.svg" width="100" height="25"/>
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/sql.svg" width="100" height="25"/>
 </p>
 
 <!-- <div class="row">

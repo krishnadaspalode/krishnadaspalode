@@ -15,9 +15,9 @@ It's my personal public repository  -->
 
 ## My Tech Stack
 <p float="left">
-  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="20" />
-  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="20" /> 
-  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" width="20" />
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="100" />
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="100" /> 
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" width="100" />
 </p>
 
 <!-- <div class="row">

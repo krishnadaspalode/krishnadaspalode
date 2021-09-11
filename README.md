@@ -3,7 +3,8 @@ It's my personal public repository  -->
 <p align="center">
   <a href="https://krishnadaspalode.git.github.io" alt="Krishnadas A" title="Krishnadas A">
     <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bg.jpeg" width="100%"/>
-    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/krishna.gif" width="100%"/>
+    <br/>
+    <h3>Krishnadas A</h3>
   </a>
 </p>
 
@@ -13,7 +14,7 @@ It's my personal public repository  -->
 
 
 ## My Tech Stack
-<img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="20%"/><img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="20%"/><img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" width="20%"/>
+<img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" style="max-width: 20%;margin: 0% 1%";/><img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" style="max-width: 20%;margin: 0% 1%";/><img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" style="max-width: 20%;margin: 0% 1%";/>
 <!-- <div class="row">
   <div class="column">
     <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="20%"/>

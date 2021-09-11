@@ -2,8 +2,8 @@
 It's my personal public repository  -->
 <p align="center">
   <a href="https://krishnadaspalode.git.github.io" alt="Krishnadas A" title="Krishnadas A">
-    <img src="https://krishnadaspalode.git.github.io/blob/main/assets/bg.jpeg" width="100%"/>
-    <img src="https://krishnadaspalode.git.github.io/blob/main/assets/krishna.gif" width="100%"/>
+    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bg.jpeg" width="100%"/>
+    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/krishna.gif" width="100%"/>
   </a>
 </p>
 
@@ -13,6 +13,18 @@ It's my personal public repository  -->
 
 
 ## My Tech Stack
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="100%"/>
+  </div>
+  <div class="column">
+    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="100%"/>
+  </div>
+  <div class="column">
+    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" width="100%"/>
+  </div>
+</div>
+
 
 ## Reach Me
 <a href="https://www.linkedin.com/in/krishnadas-a-64909a3a/">

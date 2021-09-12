@@ -30,13 +30,25 @@ It's my personal public repository  -->
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/sql.svg" width="100" height="25"/>
 </p> -->
 
-```html
+
 <p float="left">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li><img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="100" height="25"/>ANGULAR</li>
+          <li></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
   <div>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="100" height="25"/>ANGULAR
   </div>
 </p>
-```
+
 
 <!-- <div class="row">
   <div class="column">

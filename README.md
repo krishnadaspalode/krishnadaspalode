@@ -36,10 +36,10 @@ It's my personal public repository  -->
   <tbody>
     <tr>
       <td>
-        <ul>
-          <li><img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="100" height="25"/>ANGULAR</li>
-          <li></li>
-        </ul>
+          <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="100" height="25"/>ANGULAR
+      </td>
+      <td>
+          <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="100" height="25"/>JAVASCRIPT
       </td>
     </tr>
   </tbody>

@@ -14,7 +14,7 @@ It's my personal public repository  -->
 
 
 ## My Tech Stack
-<p float="left">
+<!-- <p float="left">
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angularJs.svg" width="100" height="25"/>
@@ -28,7 +28,15 @@ It's my personal public repository  -->
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/node.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/npm.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/sql.svg" width="100" height="25"/>
+</p> -->
+
+```html
+<p float="left">
+  <div>
+  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="100" height="25"/>ANGULAR
+  </div>
 </p>
+```
 
 <!-- <div class="row">
   <div class="column">

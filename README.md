@@ -14,7 +14,7 @@ It's my personal public repository  -->
 
 
 ## My Tech Stack
-<!-- <p float="left">
+<p float="left">
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angularJs.svg" width="100" height="25"/>
@@ -28,38 +28,7 @@ It's my personal public repository  -->
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/node.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/npm.svg" width="100" height="25"/>
   <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/sql.svg" width="100" height="25"/>
-</p> -->
-
-
-<p float="left">
-<table>
-  <tbody>
-    <tr>
-      <td>
-          <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="20" height="20"/>
-          <p color="var(--color-text-link);">ANGULAR</p>
-      </td>
-      <td>
-          <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="20" height="20s"/>
-          <p color="var(--color-text-link);">JAVASCRIPT</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
 </p>
-
-
-<!-- <div class="row">
-  <div class="column">
-    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/js.svg" width="20%"/>
-  </div>
-  <div class="column">
-    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/react.svg" width="20%"/>
-  </div>
-  <div class="column">
-    <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bt.svg" width="20%"/>
-  </div>
-</div> -->
 
 
 ## Reach Me

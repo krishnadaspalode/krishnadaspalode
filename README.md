@@ -36,17 +36,16 @@ It's my personal public repository  -->
   <tbody>
     <tr>
       <td>
-          <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="100" height="25"/>ANGULAR
+          <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="20" height="20"/>
+          <p color="var(--color-text-link);">ANGULAR</p>
       </td>
       <td>
-          <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="100" height="25"/>JAVASCRIPT
+          <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="20" height="20s"/>
+          <p color="var(--color-text-link);">JAVASCRIPT</p>
       </td>
     </tr>
   </tbody>
 </table>
-  <div>
-  <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/angular.png" width="100" height="25"/>ANGULAR
-  </div>
 </p>
 
 

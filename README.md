@@ -4,7 +4,7 @@ It's my personal public repository  -->
   <a href="https://krishnadaspalode.github.io" alt="Krishnadas A" title="Krishnadas A">
     <img src="https://github.com/krishnadaspalode/krishnadaspalode/blob/main/assets/bg.jpeg" width="100%"/>
     <br/>
-    <h3 align="center">Krishnadas A</h3>
+    <h3 align="center">Krishnadas Ayikkara</h3>
   </a>
 </p>
 
